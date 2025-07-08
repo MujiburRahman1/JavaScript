@@ -1,5 +1,3 @@
-# JavaScript
-
 # JavaScript Learning Journey 🚀
 
 Welcome to my JavaScript learning repository!  
