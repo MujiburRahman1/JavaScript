@@ -1,6 +1,6 @@
 .calculator-container {
-    /* width: 100vw;
-    height: 100vw; */
+    width: 100vw;
+    height: 30vw;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -13,7 +13,7 @@
 }
 
 .cal-buttons {
-    /* border: 1px solid; */
+    border: 1px solid;
     text-align: center;
     cursor: pointer;
     border-radius: 20px;
